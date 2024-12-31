@@ -1,7 +1,3 @@
-# rediscovered-frontend-projects
-
-A group of rediscovered older projects
-
 # Rediscovered Frontend Projects
 
 This repository contains a collection of my early front-end development projects, rediscovered from my Codepen archives. These projects represent my initial explorations in web development, showcasing foundational skills in HTML, CSS, and JavaScript.
@@ -14,13 +10,18 @@ This repository serves as a testament to my growth as a developer and my dedicat
 
 ## Projects
 
-- **a-non-responsive-name-tag:** A simple name tag with a dynamic typing effect. (\[Link to folder]([https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/a-non-responsive-name-tag](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/a-non-responsive-name-tag)))
-- **a-nice-city-scape:** A visually appealing cityscape design using CSS. (\[Link to folder]([https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/a-nice-city-scape](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/a-nice-city-scape)))
-- **a-pen-by-tony-the-coder-2:** A basic HTML, CSS, and JavaScript project. (\[Link to folder]([https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/a-pen-by-tony-the-coder-2](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/a-pen-by-tony-the-coder-2)))
-- **build-a-personal-portfolio-webpage:** A personal portfolio webpage template. (\[Link to folder]([https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/build-a-personal-portfolio-webpage](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/build-a-personal-portfolio-webpage)))
-- **build-a-survey-form:** A basic survey form using HTML and CSS. (\[Link to folder]([https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/build-a-survey-form](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/build-a-survey-form)))
-- **flexbox-positioning-experiment:** An exploration of Flexbox layout in CSS. (\[Link to folder]([https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/flexbox-positioning-experiment](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/flexbox-positioning-experiment)))
-- **tribute-page:** A tribute page dedicated to someone you admire. (\[Link to folder]([https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/tribute-page](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/tribute-page)))
+- **a-non-responsive-name-tag:** A simple name tag with a dynamic typing effect. ([Link to folder](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/a-non-responsive-name-tag))
+- **a-nice-city-scape:** A visually appealing cityscape design using CSS. ([Link to folder](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/a-nice-city-scape))
+- **an-ffc-nutrition-label:** A nutrition label design using CSS. ([Link to folder](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/an-ffc-nutrition-label))
+- **fcc-does-not-use-structural-engineers-to-create-this-ferris-wheel:** A CSS animation of a Ferris wheel. ([Link to folder](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/fcc-does-not-use-structural-engineers-to-create-this-ferris-wheel))
+- **fcc-table-balance-sheet-using-tables:** A balance sheet using HTML tables. ([Link to folder](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/fcc-table-balance-sheet-using-tables))
+- **firstherosectionandsite:** A hero section and site template. ([Link to folder](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/firstherosectionandsite))
+- **jsthis-second-example:** A JavaScript example demonstrating event handling. ([Link to folder](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/jsthis-second-example))
+- **picasso-painting-by-fcc:** A CSS art project inspired by Picasso. ([Link to folder](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/picasso-painting-by-fcc))
+- **rd-responsive-navigation-starter-code:** A responsive navigation bar starter code. ([Link to folder](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/rd-responsive-navigation-starter-code))
+- **table-example:** A calendar table example. ([Link to folder](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/table-example))
+- **the-fcc-penguin:** A CSS art project of a penguin. ([Link to folder](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/the-fcc-penguin))
+- **tribute-page-that-is-actually-a-beginning-webpage:** A tribute page with Bootstrap integration. ([Link to folder](https://github.com/tony-the-coder/rediscovered-frontend-projects/tree/main/tribute-page-that-is-actually-a-beginning-webpage))
 
 ## Technologies Used
 
