@@ -1,0 +1,90 @@
+
+.sky {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('https://lh3.googleusercontent.com/SvWwYgdSFmHWL21lCEgUUVafiSIPt2F8RU3T9gT_aCjB_--DTUuH19jLgnJuU-POPt360IWHiHFP3LU--B54c2aMn36bQruYdsa5BujMlSoiuK5PFFPbCT9Z_fssErc6BL0zZ66xzcU=w2400');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Jim Nightshade', cursive;
+}
+    
+    .header-introduction {
+      font-family: cursive;
+      color: white;
+      font-size: 1rem;
+    }
+    .who-i-am {
+      background-image: linear-gradient(to bottom left, blue, yellow);
+      width: 30%;
+    /*   margin-left: 33%; */
+      padding-bottom: 3px;
+    }
+    #hello {
+      height: 10rem;
+    }
+    
+    #here {
+      height: 5rem;
+    }
+    
+    #test {
+      height: 30vh;
+    }
+    
+    .my_name {
+      color: hotpink;
+       font-family: Papyrus;
+        font-weight: 700;
+    /*   font-size: 30px; */
+    }
+    
+    .nav-item {
+      color: blue;
+    }
+    
+    .nav-item.active .nav-link {
+      color: green;
+    }
+    
+    a.active {
+      border-bottom: 3px solid red;
+      color: hotpink;
+      font-family: 'Piedra', cursive;
+
+    }
+    
+    .navbar-brand {
+      color: blue;
+    }
+    
+    .navbar {
+      min-height: 5px;
+    }
+    
+    .right {
+      background-image: linear-gradient(to bottom left, red, yellow);
+    }
+    
+    .left {
+      background-image: linear-gradient(to bottom right, gray, black);
+      color: #fff333;
+      
+    }
+    
+    .welcome {
+      color: orange;
+    }
+
+.services-offered {
+    padding-bottom: 5px;
+}
+.services-offered-list{
+    background-color: transparent;
+}
+
+img {
+    max-width: 100%;
+    height: 15rem;
+    background-color: transparent;
+}

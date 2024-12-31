@@ -1,0 +1,68 @@
+body {
+  position: relative;
+}
+#myName {
+  text-decoration: underline;
+  color: green;
+  
+}
+.navbar-default {
+  background-color:white;
+}
+.navbar-default .navbar-brand {
+  color:red;
+}
+nav a {
+  background-color: white;
+  color: blue;
+  display: inline;
+}
+nav a:visted {
+  color: green;
+}
+navbar a:hover {
+  color: red;
+}
+
+ul.nav a:hover { color: #fefefe !important; }
+ul.nav a{color: blue !important; }
+.well {
+ 
+  background-color: pink;
+  
+}
+article.well {
+  display: block;
+  color:black;
+}
+article.well header {
+  color:green;
+}
+article.well li {
+  color: red;
+}
+.well {
+  margin-top: 5px;
+}
+  #section1 {padding-top:15px;height:20%;color: #fff; background-color: #1E88E5;}
+  #section2 {padding-top:15px;height:20%;color: #fff; background-color: #673ab7;}
+  #section3 {padding-top:15px;height:20%;color: #fff; background-color: #ff9800;}
+  #section41 {padding-top:15px;height:20%;color: #fff; background-color: #00bcd4;}
+  #section42 {padding-top:15px;height:20%;color: #fff; background-color: #009688;}
+
+#whoamI {
+  color: black;
+  text-align:center;
+}
+
+.about {
+  column-count: 2;
+  column-rule: .5px solid black;
+  padding: 5px 5px 5px 15px;
+}
+#welcome {
+  color: red;
+  text-shadow: 2px 2px white;
+ 
+  padding: 15px;
+}

@@ -1,0 +1,75 @@
+#name-tag {
+  margin-left: 30%;
+  margin-top:10%;
+  margin-bottom: 15%;
+  padding-top:0;
+  height: 260px;
+  width: 500px;
+  border: 1px solid black;
+  border-top-right: none;
+/*   border-top-right-radius: 1px; */ 
+  border-top-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: red;  
+  transform: skewY(5deg);
+  
+}
+
+#name-tag:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-width: 0 50px 50px 0;
+  border-style: solid;
+  border-color: #3f3f3f #fff;
+}
+
+#hello-name-tag-top {
+
+  height: 30px;
+  width: 500px;
+  background: red;
+ }
+
+#hello-name-tag-top > h1 {
+  font-family: OCR A Std, monospace;
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+}
+
+#name-written {
+  box-sizing: border-box;
+  width: 500px;
+  height: 80px;
+  background-color: white;
+}
+
+#name-written > p {
+  text-align: center;
+  font-family: 'Lobster Two';
+  font-size: 40px;
+  padding-top: 10px;
+  font-weight: bold;
+  color: purple;
+}
+
+#hello-name-tag-bottom {
+  height: 10px;
+  width: 500px;
+/*    background: red;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px; */
+ 
+}
+
+#nice-to-meet-you {
+  font-family: OCR A Std, monospace;
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  margin: 10px;
+  font-weight: bold;
+}
